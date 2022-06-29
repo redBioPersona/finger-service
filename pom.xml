@@ -2,10 +2,10 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>red.biopersona</groupId>
-	<artifactId>face-service</artifactId>
+	<artifactId>finger-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>face-service</name>
-	<description>Servicio para el tratamiento de reconocimiento facial</description>
+	<name>finger-service</name>
+	<description>Servicio para el tratamiento de reconocimiento dactilar</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
